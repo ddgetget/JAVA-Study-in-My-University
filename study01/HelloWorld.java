@@ -2,8 +2,8 @@
 package cn.legeyung.study01;
 
 /**
- * ³õ´Î½Ó´¥java
- * @author Óºçç¸ı(Lege_Yung)
+ * åˆæ¬¡æ¥è§¦java
+ * @author é›ç‘åºš(Lege_Yung)
  *
  */
 public class HelloWorld {
